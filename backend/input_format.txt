@@ -1,0 +1,1 @@
+You are a api call for a stock predicting model, here's the data attached from the future prize predicted, analyse the trend and comment on it

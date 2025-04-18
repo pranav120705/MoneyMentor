@@ -20,7 +20,7 @@ It features a Gemini-integrated chatbot for intelligent financial assistance, re
 ## 🗂️ Project Structure
 
 ```
-Money_Mentor_Prayatna-2025/
+MoneyMentor/
 ├── src/              # React frontend using npm
 ├── backend/          # Flask backend (Python-based)
 ├── .env.example      # Environment variable example

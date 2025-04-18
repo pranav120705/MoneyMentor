@@ -41,8 +41,8 @@ Money_Mentor_Prayatna-2025/
 ### 🔹 Clone the Repository
 
 ```bash
-git clone https://github.com/ajaykrishna00-7/Money-Mentor-Stock-market-prediction-and-learning-system-
-cd Money-Mentor-Stock-market-prediction-and-learning-system-
+git clone https://github.com/pranav120705/MoneyMentor
+cd MoneyMentor
 ```
 
 ---
